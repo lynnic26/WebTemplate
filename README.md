@@ -1,4 +1,4 @@
-shoe
+Bootstrap Web Template
 ====
 
-A simple template of bootstrap 3.2
+This is a website based on Bootstrap 
